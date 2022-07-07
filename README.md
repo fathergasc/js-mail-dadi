@@ -16,7 +16,7 @@ Dadi
 - Genero un numero casuale da 1 a 6 per il computer
 - IF numero giocatore > numero computer
     - Alert 'Hai vinto!'
-ELSE IF numero giocatore numero computer
+ELSE IF numero giocatore < numero computer
     - Alert 'Hai perso!'
 ELSE numero giocatore == numero computer
     - Alert 'Pareggio!"
